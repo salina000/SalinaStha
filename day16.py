@@ -20,7 +20,7 @@ print(result)
 a = lambda *args : list(args)
 print(a(1,2,3,4,5))
 
-data = {Add commentMore actions
+data = {
     "name":"sudan",
     "address":"dang"
 }
